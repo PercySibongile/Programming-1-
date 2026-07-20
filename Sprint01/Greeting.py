@@ -1,0 +1,5 @@
+name = input('Enter your name: ')
+print(f"Hi {name}!")
+print(f"Good Afternoon {name}!")
+feeling = input('How are you doing today? ')
+print(f"I'm glad to hear your are {feeling}. Have a great day, {name}!")

@@ -1,3 +1,5 @@
-Programming-1-
+# Programming-1-
+This is the portfolio for my PGM 1 classs
 
-README.md
+
+
