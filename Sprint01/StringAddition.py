@@ -5,4 +5,4 @@ number2 = int(number2_str)
 combination = number1 + number2
 print(f"Answer: {combination}")
 print()
-input ("press return to continue...")
+input ("press return to continue....")
