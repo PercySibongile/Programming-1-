@@ -10,7 +10,7 @@ print ("Item:", item)
 print("Price:", price)
 print("Quantity:", quantity)
 print("Total Cost: KES", total)
-if total >= 5000:
+if total >= 6000:
     discount = total * 0.10
     final_total = total - discount
     print("Discount: KES", discount)
